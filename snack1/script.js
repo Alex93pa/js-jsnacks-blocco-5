@@ -62,4 +62,4 @@ function pesoTotale (zucchine){
 }
 
 console.log("Il peso totale delle zucchine è " + pesoTotale(zucchine)
-+"gr.")
++" gr.")
